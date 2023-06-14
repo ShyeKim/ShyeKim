@@ -38,6 +38,7 @@ print("안녕")
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
+<img src='images/picture01.jpg' width=300 height=200> </img>
 
 <!--
 **ShyeKim/ShyeKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
